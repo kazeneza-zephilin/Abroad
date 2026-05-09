@@ -1,69 +1,40 @@
-# Real Stories & Anecdotes
+# Real Student Stories
 
-## Story 1: The Half-Ear Driver
-**Theme:** Resilience and moving forward
+## Personal Growth & Self-Discovery
 
-A moto driver picks up a traveler and is recognized from a week earlier. When asked about his missing ear, he calmly says: "I was a young boy when it happened. La guerre était terrible."
+**Dominique - London Semester**
+"Studying abroad was the best decision I ever made. It opened up my mind, my heart, literally everything. It made me realize the possibilities of life, and I feel like life truly began for me during that experience."
 
-The calm with which he states this, without bitterness or drama, shows how ordinary life continues after extraordinary tragedy. He's not defined by what happened—he's defined by what he's doing now.
-
-**Use for:** Building trust, showing that Rwanda has healed while honoring the past
+_Key insight:_ Students describe study abroad as transformative, not incremental. It's a before/after moment in their lives.
 
 ---
 
-## Story 2: The English-Studying Waitress
-**Theme:** Hope and ambition in post-conflict Rwanda
+## Making Lifelong Friendships
 
-A waitress at a café mentions she's studying English at university while working. She speaks proudly about President Kagame's Vision 20/20 and Rwanda's development goals.
+**Derek - Summer Study + Travel Program (Europe)**
+"Going into this experience, I did not know anyone in the program beforehand. It was a nerve-racking feeling to encounter, being an introvert, but once you get to your location and meet everyone there, you realize you have nothing to worry about… I ended up making friends for life during this experience, and I don't regret a thing."
 
-When asked if she's visited the genocide memorial, she mentions it casually—matter-of-fact, not seeking sympathy—then continues being helpful and professional. She represents a generation that lived through healing and is building the future.
-
-**Use for:** Showing young Rwandans' ambition, the work ethic in the country, optimism about the future
+_Key insight:_ Even introverted students find their community. The shared experience of navigating a new place fast-tracks friendships. Reassure nervous applicants.
 
 ---
 
-## Story 3: The Moto Tour Through Kigali
-**Theme:** Transformation and surprise
+## Language Immersion Success
 
-A traveler hires a moto-taxi driver to "show me everything" and "let me feel Kigali." 
+**Ketina - Spring Semester in Salamanca, Spain**
+"My Spanish improved immensely just by being immersed in the language all the time. I also took a lot of grammar courses that refined my Spanish skills. By the end, many people told me that my conversational Spanish was really good and that I sounded fluent."
 
-As they ride through orange-helmeted drivers, jacaranda-lined streets, and organized neighborhoods, the traveler is shocked. This is the same country that experienced genocide 23 years prior. The streets are clean, marked with numbered plates, organized. The buildings look like Europe or America.
-
-The driver narrates with pride: "This was just forest a few years ago."
-
-**Use for:** Demonstrating Rwanda's infrastructure improvement, the visual surprise of visiting Rwanda's major cities
+_Key insight:_ Immersion + coursework = fluency. Students trust peer validation ("people told me") more than official certificates.
 
 ---
 
-## Story 4: Java House Coffee Moment
-**Theme:** Finding yourself in travel
+## Travel & Adventure
 
-At Java House overlooking the Convention Centre, a traveler sits with a local driver who turns off his moto-meter to join them for coffee. He was hesitant, but agreed. 
-
-Over coffee, watching Kigali's organized streets, the traveler realizes this is about more than monuments or facts. It's about the feeling of the place—the organization, the pride, the safety, the small acts of kindness.
-
-**Use for:** Showing how study abroad consultants create moments of connection, not just transactions
+Students consistently highlight weekend travel and organized excursions as memorable highlights. The ability to explore neighboring countries and regions affordably is a major draw.
 
 ---
 
-## Story 5: First Impressions Shift
-**Theme:** Overcoming bias and assumptions
-
-A traveler arrives tired and on edge after time in a potentially dangerous area. The expectation is that Rwanda—post-conflict—will feel unstable or sad.
-
-Instead: polite security guards, smiling waitresses, clean streets, organized traffic, everyone working and studying toward national goals.
-
-The contrast is jarring. Reality challenges assumption.
-
-**Use for:** Showing how students often arrive with preconceptions that are quickly overturned once they're actually in country
-
----
-
-## Story 6: The Cold Driver Goodbye
-**Theme:** Authenticity and honesty
-
-The first driver (Jean Paul) becomes cold when the tip becomes uncertain. The traveler matches his coldness.
-
-Later, a different driver helps show the city with genuine excitement and pride. The contrast shows that authentic connections aren't transactional.
-
-**Use for:** Honest representation that not every interaction is perfect, but many are surprisingly genuine
+## Using These Stories
+- Quote Dominique when talking about personal transformation
+- Use Derek's story when addressing fear of going alone or being introverted
+- Reference Ketina when positioning language immersion value
+- Pull specific phrases ("life truly began," "friends for life") for testimonials
