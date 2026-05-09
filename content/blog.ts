@@ -8,211 +8,233 @@ export interface BlogPost {
   author: string;
   readTime: number;
   category: string;
+  imageUrl?: string;
 }
 
 export const blogPosts: BlogPost[] = [
   {
-    id: "canada-student-visa-2024",
-    slug: "canada-student-visa-2024",
-    title: "Complete Guide to Canada Student Visa in 2024",
+    id: "study-abroad-loans-rwanda-banks",
+    slug: "study-abroad-loans-rwanda-banks",
+    title: "Complete Guide to Study Abroad Loans through Rwanda Banks",
     description:
-      "Everything you need to know about applying for a Canadian student visa, including requirements, timeline, and common mistakes to avoid.",
+      "Navigate education financing options with Rwanda banks. Learn about student loan eligibility, application process, interest rates, and loan products available for Rwandan students studying abroad.",
+    imageUrl: "https://images.pexels.com/photos/3962286/pexels-photo-3962286.jpeg?auto=compress&cs=tinysrgb&w=600",
     content: `
-## Canada Student Visa Guide 2024
+## Study Abroad Loan Guidance: Rwanda Banks Edition
 
-Studying in Canada is an excellent choice for international students. Here's what you need to know about the visa process.
+Financing your international education is one of the biggest challenges for Rwandan students. Fortunately, Rwanda's banking sector offers several loan products specifically designed for students pursuing overseas education. This guide covers everything you need to know about securing study abroad loans through Rwanda banks.
+
+### Why Choose Rwanda Bank Loans?
+
+Rwandan banks understand the unique needs of students studying abroad. They offer:
+
+- Competitive interest rates tailored for education
+- Flexible repayment terms
+- Direct disbursement to universities
+- Currency management support
+- Lower collateral requirements compared to commercial loans
+
+### Major Rwandan Banks Offering Study Loans
+
+#### Bank of Kigali (BK)
+- Education loan product specifically for study abroad
+- Interest rates: 8-12% per annum
+- Loan amounts: RWF 5,000,000 - RWF 50,000,000
+- Repayment period: Up to 10 years after graduation
+
+#### Equity Bank Rwanda
+- Varsity Loan Product for students
+- Flexible repayment options
+- Lower interest rates for degree programs
+- Grace period during studies
+
+#### KCB Bank Rwanda
+- Education Financing Solutions
+- Covers tuition and living expenses
+- Direct payment to institutions
+- Competitive rates for partnering universities
+
+#### Development Bank of Rwanda (BRD)
+- Specializes in development-focused education
+- Discounted rates for STEM programs
+- Priority for students from underserved regions
+- Dedicated support for visa documentation
 
 ### Eligibility Requirements
 
-- You must have an acceptance letter from a Designated Learning Institution (DLI) in Canada
-- You need proof of financial support (approximately CAD 60,000-80,000 per year)
-- You must pass a medical exam if required
-- You need a valid passport
+Most Rwanda banks require:
 
-### Financial Documentation
-
-Canadian immigration requires proof that you can support yourself throughout your studies. This includes:
-
-- Tuition fees
-- Living expenses (rent, food, transportation)
-- Health insurance
-- Return transportation
-
-### Application Timeline
-
-- **3-4 months before intake**: Complete your program applications
-- **2-3 months before intake**: Receive acceptance letter from DLI
-- **1-2 months before intake**: Gather financial documents and medical exam
-- **6-8 weeks before intake**: Submit visa application
-
-### Common Mistakes
-
-1. Submitting incomplete documentation
-2. Unclear financial source documentation
-3. Gaps in employment history
-4. Poor language test scores
-5. Not having a clear study plan
-
-### Tips for Success
-
-- Start the process early
-- Keep all documents organized
-- Ensure your financial documents match your application
-- Practice your English/French
-- Have a clear career goal post-graduation
-
-For personalized guidance, our consultants can help you navigate the entire process.
-    `,
-    date: "2024-05-09",
-    author: "C-Visas Agency",
-    readTime: 6,
-    category: "Canada",
-  },
-  {
-    id: "uk-student-visa-requirements",
-    slug: "uk-student-visa-requirements",
-    title: "UK Student Visa Requirements and Application Process",
-    description:
-      "A comprehensive guide to obtaining a UK student visa, including the latest requirements and application steps.",
-    content: `
-## UK Student Visa Requirements
-
-The UK offers world-class education and is home to many prestigious universities. Here's how to get your student visa.
-
-### Types of UK Student Visas
-
-#### Tier 4/Student Visa
-- For students aged 16+
-- Pursuing degree-level courses or higher
-- Valid for 2-10 years depending on course length
-
-#### Short-term Study Visa
-- For courses under 6 months
-- No work permission
-- Faster processing
-
-### Key Requirements
-
-- Acceptance letter from a UK university
-- Proof of financial support
-- English language proficiency (IELTS 5.5-6.5)
-- Valid passport
-
-### Financial Requirements
-
-For 2024, you need to demonstrate:
-- Full tuition fees for your course
-- Living expenses (approximately £1,025/month in London, £819/month outside London)
+- Rwandan citizenship or permanent residency
+- Age: 18-35 years
+- Valid acceptance letter from recognized university
+- Secondary school or higher qualification
+- Parent/guardian as co-signer (usually)
+- Bank account with 3-6 months transaction history
+- Proof of income or family financial support
 
 ### Application Process
 
-1. **Accept your university offer**
-2. **Receive your Confirmation of Acceptance for Studies (CAS)**
-3. **Gather required documents**
-4. **Apply online through UKVI website**
-5. **Pay visa and Healthcare Surcharge**
-6. **Attend biometric appointment**
-7. **Receive decision**
+#### Step 1: Gather Documentation
+- Valid passport and national ID
+- University acceptance letter
+- Tuition fee estimate from university
+- Financial statements (last 3-6 months)
+- CV and academic transcripts
+- Parent/guardian identification
 
-### Points to Remember
+#### Step 2: Choose Your Bank
+- Compare interest rates
+- Check repayment terms
+- Verify processing speed
+- Review disbursement options
 
-- Processing usually takes 3 weeks
-- Priority service available (1 week)
-- You can work part-time during studies (20 hours/week during term)
-- Post-graduation work visa available for 2 years
+#### Step 3: Submit Application
+- Complete application form
+- Submit required documents
+- In-person interview at branch
+- Provide additional information if requested
 
-### Common Reasons for Refusal
+#### Step 4: Loan Assessment
+- Credit check (if applicable)
+- Income verification
+- Collateral evaluation
+- Approval decision (typically 2-4 weeks)
 
-- Insufficient funds
-- Fake documents
-- Poor English language skills
-- No genuine intention to study
+#### Step 5: Disbursement
+- Funds transferred to university account
+- Remaining funds to your account
+- Sign loan agreement
+- Begin grace period
 
-Our team can help ensure your application is strong and complete.
+### Types of Study Abroad Loans
+
+#### Full Tuition Loans
+- Covers complete university fees
+- Direct payment to institution
+- Usually requires co-signer
+- Longer repayment period
+
+#### Partial Education Loans
+- Covers portion of tuition
+- Student contributes remainder
+- Lower approval process
+- Faster disbursement
+
+#### Living Expense Loans
+- Separate from tuition
+- Covers accommodation, food, transport
+- Monthly or lump-sum disbursement
+- Interest-free in some cases
+
+### Interest Rates & Repayment Terms
+
+Typical rates and terms in 2026:
+
+- **Prime Lending Rate**: 8-10% for top-tier applicants
+- **Standard Rate**: 10-13% for average applicants
+- **Higher Rate**: 13-15% for higher-risk applicants
+- **Grace Period**: 6-12 months after graduation
+- **Repayment Period**: 5-10 years
+- **Monthly Payment Examples**:
+  - RWF 10M loan at 11%: RWF ~150,000/month
+  - RWF 20M loan at 11%: RWF ~300,000/month
+  - RWF 30M loan at 11%: RWF ~450,000/month
+
+### Pro Tips for Loan Approval
+
+1. **Start Early**: Apply 3-4 months before your intake
+2. **Build Credit**: If new to banking, maintain good account activity
+3. **Strong Co-signer**: Parent with stable employment increases approval
+4. **Clear Purpose**: Show exactly what the money covers
+5. **Realistic Budgets**: Don't apply for more than needed
+6. **Document Everything**: Keep originals of all communications
+7. **Compare Offers**: Get quotes from 2-3 banks before deciding
+8. **Understand Terms**: Read all fine print before signing
+
+### Alternative Funding Combinations
+
+Most students don't rely solely on bank loans. Consider combining:
+
+- Bank loans: 60%
+- Family savings: 20%
+- Part-time work while studying: 15%
+- Scholarships: 5%
+
+This balanced approach reduces loan burden and shows immigration officers multiple funding sources.
+
+### Common Loan Application Problems & Solutions
+
+#### Problem: Insufficient Income Documentation
+Solution: Use business tax returns, employer letters, or family financial statements
+
+#### Problem: No Co-signer Available
+Solution: Some banks accept additional collateral or require higher interest rates
+
+#### Problem: Tuition Estimate Exceeds Loan Limits
+Solution: Plan for part-time work, scholarships, or split funding between loans
+
+#### Problem: Visa Rejection After Loan Approval
+Solution: Confirm loan can be deferred or restructured; get written confirmation from bank
+
+### Tax Implications
+
+Important to know:
+
+- Loan interest may be tax-deductible in your home country
+- Repayments don't count as income
+- Consult Rwanda Revenue Authority for specific guidance
+- Keep all loan documents for tax purposes
+
+### Repayment After Studies
+
+#### During Study Period
+- Interest accrues only (no principal payments)
+- Grace period typically 6-12 months after graduation
+
+#### After Grace Period
+- Monthly payments begin
+- Repay through automatic bank transfer
+- Can prepay without penalty
+- Ask about hardship programs if unemployed
+
+### Why Choose Professional Guidance?
+
+Working with C-Visas Agency can help you:
+
+- Identify the best loan product for your situation
+- Prepare complete applications
+- Strengthen co-signer documentation
+- Navigate complex banking requirements
+- Combine loans with visa requirements
+- Understand terms and conditions
+- Plan long-term repayment strategy
+
+### Key Takeaways
+
+- Rwanda banks offer education loans up to RWF 50M
+- Interest rates typically 8-15% depending on applicant profile
+- Plan for 2-4 weeks processing time
+- Combine bank loans with other funding sources
+- Start application 3-4 months before intake
+- Strong documentation increases approval odds
+- Repayment begins 6-12 months after graduation
+
+### Next Steps
+
+1. Contact your preferred bank for current rates and products
+2. Gather all required documentation
+3. Compare loan offers from 2-3 banks
+4. Consult with our team on visa implications
+5. Apply early to avoid delays
+
+Study abroad is achievable for Rwandan students. With the right loan and proper planning, your dream university is within reach.
     `,
-    date: "2024-04-28",
+    date: "2026-05-09",
     author: "C-Visas Agency",
-    readTime: 7,
-    category: "UK",
-  },
-  {
-    id: "study-abroad-financial-planning",
-    slug: "study-abroad-financial-planning",
-    title: "Financial Planning Guide for Study Abroad",
-    description:
-      "How to plan your finances for international education and explore scholarship opportunities.",
-    content: `
-## Financial Planning for Study Abroad
-
-Studying abroad is an investment in your future. Smart financial planning can make it achievable.
-
-### Total Cost of Study
-
-The total cost includes:
-
-- **Tuition fees**: $15,000-$50,000+ per year (varies by country and university)
-- **Accommodation**: $500-$2,000/month
-- **Food and groceries**: $200-$500/month
-- **Transportation**: $50-$200/month
-- **Insurance**: $500-$2,000/year
-- **Personal expenses**: $200-$500/month
-
-### Funding Sources
-
-#### Personal/Family Savings
-- Most reliable source
-- Shows genuine commitment to immigration officers
-
-#### Educational Loans
-- Private loans available in Rwanda
-- International education loans
-- Home country loans
-
-#### Scholarships and Grants
-- University scholarships
-- Government scholarships
-- International funding organizations
-- NGO support
-
-#### Part-time Work
-- Usually allowed 15-20 hours/week during studies
-- Helps cover living expenses
-- Builds work experience
-
-### Budgeting Tips
-
-1. Research total costs for your specific program
-2. Create a detailed budget spreadsheet
-3. Consider currency exchange rates
-4. Plan for unexpected expenses (15% buffer)
-5. Track spending monthly
-6. Look for student discounts
-
-### Scholarship Opportunities
-
-- Commonwealth Scholarships (UK)
-- Chevening Scholarships
-- Government sponsorship programs
-- University-specific scholarships
-- Merit-based awards
-
-### Making It Affordable
-
-- Choose countries with lower living costs (Germany, Poland)
-- Apply for scholarships early
-- Consider budget-friendly universities
-- Work part-time if allowed
-- Share accommodation with other students
-
-Start financial planning 1-2 years before your intended intake. The earlier you plan, the more funding options become available.
-    `,
-    date: "2024-04-15",
-    author: "C-Visas Agency",
-    readTime: 8,
+    readTime: 12,
     category: "Finance",
   },
 ];
-
 export function getBlogPost(slug: string): BlogPost | undefined {
   return blogPosts.find((post) => post.slug === slug);
 }

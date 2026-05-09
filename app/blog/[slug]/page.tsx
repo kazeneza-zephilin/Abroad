@@ -60,6 +60,17 @@ export default async function BlogPostPage({
 
   return (
     <main className="min-h-screen bg-white">
+      {/* Featured Image */}
+      {post.imageUrl && (
+        <div className="relative h-96 bg-slate-200 w-full overflow-hidden">
+          <img
+            src={post.imageUrl}
+            alt={post.title}
+            className="w-full h-full object-cover"
+          />
+        </div>
+      )}
+
       {/* Article Header */}
       <article className="pt-12 pb-8 px-4 sm:px-6 lg:px-8">
         <div className="max-w-3xl mx-auto">
@@ -181,21 +192,34 @@ export default async function BlogPostPage({
                 <Link
                   key={relatedPost.id}
                   href={`/blog/${relatedPost.slug}`}
-                  className="group block bg-white border border-slate-200 rounded-lg p-6 hover:shadow-lg transition-shadow"
+                  className="group block bg-white border border-slate-200 rounded-lg overflow-hidden hover:shadow-lg transition-shadow"
                 >
-                  <h3 className="font-bold text-slate-900 mb-2 group-hover:text-blue-600 transition-colors line-clamp-2">
-                    {relatedPost.title}
-                  </h3>
-                  <p className="text-sm text-slate-600 mb-4 line-clamp-2">
-                    {relatedPost.description}
-                  </p>
-                  <div className="text-xs text-slate-500">
-                    {new Date(relatedPost.date).toLocaleDateString("en-US", {
-                      year: "numeric",
-                      month: "short",
-                      day: "numeric",
-                    })}{" "}
-                    • {relatedPost.readTime} min
+                  {/* Related Image */}
+                  {relatedPost.imageUrl && (
+                    <div className="relative h-32 bg-slate-200 overflow-hidden">
+                      <img
+                        src={relatedPost.imageUrl}
+                        alt={relatedPost.title}
+                        className="w-full h-full object-cover group-hover:scale-105 transition-transform"
+                        loading="lazy"
+                      />
+                    </div>
+                  )}
+                  <div className="p-4">
+                    <h3 className="font-bold text-slate-900 mb-2 group-hover:text-blue-600 transition-colors line-clamp-2">
+                      {relatedPost.title}
+                    </h3>
+                    <p className="text-sm text-slate-600 mb-3 line-clamp-2">
+                      {relatedPost.description}
+                    </p>
+                    <div className="text-xs text-slate-500">
+                      {new Date(relatedPost.date).toLocaleDateString("en-US", {
+                        year: "numeric",
+                        month: "short",
+                        day: "numeric",
+                      })}{" "}
+                      • {relatedPost.readTime} min
+                    </div>
                   </div>
                 </Link>
               ))}

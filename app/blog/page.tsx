@@ -49,6 +49,17 @@ export default function BlogPage() {
                 href={`/blog/${post.slug}`}
                 className="group block bg-white border border-slate-200 rounded-lg overflow-hidden hover:shadow-lg transition-shadow duration-300"
               >
+                {/* Featured Image */}
+                {post.imageUrl && (
+                  <div className="relative h-48 bg-slate-200 overflow-hidden">
+                    <img
+                      src={post.imageUrl}
+                      alt={post.title}
+                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                      loading="lazy"
+                    />
+                  </div>
+                )}
                 <div className="p-6 h-full flex flex-col">
                   {/* Category Badge */}
                   <div className="mb-3">
