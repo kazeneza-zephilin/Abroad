@@ -47,7 +47,7 @@ export default function BlogPage() {
               <Link
                 key={post.id}
                 href={`/blog/${post.slug}`}
-                className="group block bg-white border border-slate-200 rounded-lg overflow-hidden hover:shadow-lg transition-shadow duration-300"
+                className="group block bg-white border border-slate-200 rounded-xl overflow-hidden hover:shadow-xl transition-all duration-300 hover:border-blue-300"
               >
                 {/* Featured Image */}
                 {post.imageUrl && (
@@ -55,39 +55,40 @@ export default function BlogPage() {
                     <img
                       src={post.imageUrl}
                       alt={post.title}
-                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                      className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                       loading="lazy"
                     />
+                    <div className="absolute inset-0 bg-gradient-to-t from-slate-900/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
                   </div>
                 )}
                 <div className="p-6 h-full flex flex-col">
                   {/* Category Badge */}
                   <div className="mb-3">
-                    <span className="inline-block px-3 py-1 bg-blue-50 text-blue-700 text-sm font-medium rounded-full">
+                    <span className="inline-block px-3 py-1 bg-blue-50 text-blue-700 text-xs font-semibold rounded-full uppercase tracking-wider">
                       {post.category}
                     </span>
                   </div>
 
                   {/* Title */}
-                  <h2 className="text-xl font-bold text-slate-900 mb-3 group-hover:text-blue-600 transition-colors line-clamp-2">
+                  <h2 className="text-lg font-bold text-slate-900 mb-3 group-hover:text-blue-600 transition-colors line-clamp-2">
                     {post.title}
                   </h2>
 
                   {/* Description */}
-                  <p className="text-slate-600 text-sm mb-4 flex-grow line-clamp-3">
+                  <p className="text-slate-600 text-sm mb-4 flex-grow line-clamp-3 leading-relaxed">
                     {post.description}
                   </p>
 
                   {/* Meta */}
                   <div className="flex items-center justify-between text-xs text-slate-500 pt-4 border-t border-slate-100">
-                    <time dateTime={post.date}>
+                    <time dateTime={post.date} className="font-medium">
                       {new Date(post.date).toLocaleDateString("en-US", {
                         year: "numeric",
                         month: "short",
                         day: "numeric",
                       })}
                     </time>
-                    <span>{post.readTime} min read</span>
+                    <span className="font-medium">{post.readTime} min</span>
                   </div>
                 </div>
               </Link>
